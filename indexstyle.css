@@ -1,0 +1,26 @@
+#nav {
+	background-color: #e3f2fd;
+	font-style: bold;
+}
+body {
+	background-color: #b5d6ee;
+}
+#jumbotron {
+	background-color: #a7c2d6;
+}
+#info {
+	margin-top: 50px;
+	font-weight: bold;
+}
+#logo {
+	height: 80px;
+	width: 80px;
+}
+#contact-us {
+	margin-top: 100px;
+	font-weight: bold;
+	font-family: consolas;
+	background-color: #a7c2d6;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
